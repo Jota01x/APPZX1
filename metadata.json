@@ -1,8 +1,0 @@
-{
-  "name": "Appz Hub",
-  "description": "Plataforma profissional para criação de sites e prospecção de leads qualificados.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
